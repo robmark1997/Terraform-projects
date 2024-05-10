@@ -1,4 +1,4 @@
-
+#create a bucket with public access and versioning
 
 resource "aws_s3_bucket" "my-bucket" {
   bucket = "my-tf-example-bucket-gsingh"
